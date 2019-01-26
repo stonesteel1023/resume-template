@@ -1,3 +1,5 @@
+http://jekyllthemes.org/themes/resume/
+
 # Resume template
 
 *A simple Jekyll + GitHub Pages powered resume template.*
